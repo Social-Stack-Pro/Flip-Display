@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+/* New styles for our split-flap display app */
+.App {
+  padding: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+.split-flap-display {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.display-text {
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+.control-panel {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.control-panel input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.control-panel button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.control-panel button:hover {
+  background-color: #21a1cb;
+}
