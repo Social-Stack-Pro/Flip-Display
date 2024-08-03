@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Flip-Display/static/css/main.9fbbc493.css",
+    "main.js": "/Flip-Display/static/js/main.186b4aa4.js",
+    "index.html": "/Flip-Display/index.html",
+    "main.9fbbc493.css.map": "/Flip-Display/static/css/main.9fbbc493.css.map",
+    "main.186b4aa4.js.map": "/Flip-Display/static/js/main.186b4aa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fbbc493.css",
+    "static/js/main.186b4aa4.js"
+  ]
+}
